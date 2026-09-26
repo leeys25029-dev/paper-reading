@@ -9,3 +9,4 @@ My research focuses on time series forecasting and brain-inspired intelligence, 
 | Method Name | Code | Source | Comment |
 | ----------- | ---- | ------ | ------- |
 | [Synaptic Plasticity Models and Bio-Inspired Unsupervised Deep Learning: A Survey](https://arxiv.org/abs/2307.16236) |  | CoRR 2023 | List some methods that how people use Synaptic Plasticity in DL  |
+| [Unsupervised representation learning with Hebbian synaptic and structural plasticity in brain-like feedforward neural networks](https://www.sciencedirect.com/science/article/pii/S0925231225001122) |  | Neurocomputing 2025 |  Combining synaptic plasticity and structural plasticity with Bayesian neural networks |
